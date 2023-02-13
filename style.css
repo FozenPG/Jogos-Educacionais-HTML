@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 500px;
+    background-color: blanchedalmond;
+    box-shadow: 3px 3px 5px black;
+}
+
+ul{
+    padding: 1%;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 5px black;
+    text-align: center;
+}
+
+button{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
